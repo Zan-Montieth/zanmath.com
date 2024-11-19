@@ -80,7 +80,7 @@ An educational project to improve math education outcomes for students and suppo
 
 ## Next Steps and Action Items
 
-  - Algebra or Geometry 
+  ==Algebra or Geometry ==
   - I currently use a wide set of software in the classroom that does not currently meet my needs. -The work types can be broken down into group activities, individual homework practice, individual Quizzing, and individual testing
   - The envisioned project will have a question set exists in the backend that can be plugged in and extended by front ends for the different use cases. Question categories should allow for a diverse set of questions, either manually entered or dynamically coded. 
   - An issue with current solutions is limited answer type options, having options for multiple choice or fill-in-the-blank could lead to deeper learning. (Duolingo uses multiple choice to introduce concepts through exploration then moves to typed responses)
